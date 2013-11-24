@@ -1,0 +1,17 @@
+{
+  "name": "urltoken",
+  "description": "analog of urltoken utility in .Net framework",
+  "keywords": [
+    "urltoken",
+    "base64"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Tao Yang",
+    "url": "http://our1944.wordpress.com"
+  },
+  "version": "0.0.1",
+  "devDependencies": {
+    "async": "~0.2.9"
+  }
+}
