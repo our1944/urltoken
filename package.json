@@ -10,7 +10,7 @@
     "name": "Tao Yang",
     "url": "http://our1944.wordpress.com"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "devDependencies": {
     "async": "~0.2.9"
   },
